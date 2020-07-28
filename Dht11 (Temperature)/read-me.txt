@@ -1,0 +1,2 @@
+Execute o Sketch do arduino segundo o esquemático mostrado na imagem 1.
+Obs, no esquemático o pino de sinal pode estar errado, depende do código rodado no sketch
